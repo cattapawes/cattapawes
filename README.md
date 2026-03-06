@@ -1,20 +1,5 @@
 <h3 align="left">Hello, I am Fasiihah 👋</h3>
-<p align="left">I am a recent Information Technology graduate with major in Big Data Analytics. My interest focuses on handling raw data, enhancing visual storytelling and business optimization through data analytics and automation approaches.</p>
 
-<hr>
-<h4 align="left">Areas of Focus:</h4>
-<p align="left">
-  <ul>
-    <li>Data Querying & Transformation</li>
-    <li>Data Modeling & Warehousing Concepts</li>
-    <li>ETL / ELT & Data Pipelines</li>
-    <li>Programming for Data Automation</li>
-    <li>Data Visualization & Business Thinking</li>
-  </ul>
-</p>
-</hr>
-
-<hr>
 <h4 align="left">Languages & Tools:</h4>
 
 <div align="center">
